@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/PCController.cs.meta
+guid: f52bb1079aac99747bc456e931e3388a
+========
+guid: 51ce1de20e70eff40b6359cf5a0ef47b
+>>>>>>>> vladtest:Assets/Scripts/FakeNewsHunter.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

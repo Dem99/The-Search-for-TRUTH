@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: ac7e345e9e0a6d34a951f6bdafbc605f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pieceA: {instanceID: 0}
+  - pieceB: {instanceID: 0}
+  - pieceC: {instanceID: 0}
+  - pieceD: {instanceID: 0}
+  - pieceE: {instanceID: 0}
+  - pieceF: {instanceID: 0}
+  - pieceG: {instanceID: 0}
+  - pieceH: {instanceID: 0}
+  - pieceI: {instanceID: 0}
+  - pieceJ: {instanceID: 0}
+  - pieceK: {instanceID: 0}
+  - pieceL: {instanceID: 0}
+  - pieceM: {instanceID: 0}
+  - positionA1: {instanceID: 0}
+  - positionB1: {instanceID: 0}
+  - positionC1: {instanceID: 0}
+  - positionD1: {instanceID: 0}
+  - positionE1: {instanceID: 0}
+  - positionF1: {instanceID: 0}
+  - positionG1: {instanceID: 0}
+  - positionH1: {instanceID: 0}
+  - positionI1: {instanceID: 0}
+  - positionJ1: {instanceID: 0}
+  - positionK1: {instanceID: 0}
+  - positionL1: {instanceID: 0}
+  - positionM1: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

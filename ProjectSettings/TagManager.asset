@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bad
+  - Newspaper
+  - Logic
+  - Sensor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - SolidObjects
+  - Player
+  - Interactable
+  - fake_news_game
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 255149603
+    locked: 0
+  - name: Foreground
+    uniqueID: 2310435253
+    locked: 0
+  - name: Top
+    uniqueID: 921669809
+    locked: 0
+  - name: Fencing
+    uniqueID: 2288301641
+    locked: 0
+  - name: Grass
+    uniqueID: 3050375553
+    locked: 0
+  - name: Bridge
+    uniqueID: 2395335379
+    locked: 0
+  - name: NPC
+    uniqueID: 912795875
+    locked: 0
+  - name: Player
+    uniqueID: 1430086625
+    locked: 0
