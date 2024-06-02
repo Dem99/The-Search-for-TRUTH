@@ -16,7 +16,7 @@ In this game, the player takes on the role of journalist Alex, who finds himself
 
 The player must reach a certain number of articles and Mr. Ben's not-so-clean affairs and eventually get permission to publish in the media paralleling contact with various characters and clickable items. In the first mini-game, the player is presented with information. His task is to determine whether this information is true or false. He must carefully analyze the details presented and apply critical thinking. For each correctly determined piece of information, the player earns points. However, for each incorrect determination, the player loses points.  In the second mini-game, the player is presented with torn pieces of newspapers scattered across the screen. This is a puzzle game, the player's goal is to restore the original image. He has to put all the pieces together by dragging them to the correct position.  In the third mini-game, the player controls a newspaper object moving through a dynamic environment. The newspapers must be objective and free of misinformation. The player's task is to guide the newspaper object through the level, avoiding obstacles that represent misinformation. In the fourth mini-game, there we try to collect truthful articles to collect a certain number of newspapers and cut only bombs. As the player progresses, he earns points for successfully overcoming obstacles.
 
-Gameplay video here: https://www.youtube.com/watch?v=7zZhdMebaVI
+Gameplay video: https://www.youtube.com/watch?v=7zZhdMebaVI
 
 ## Features:
 
@@ -33,8 +33,8 @@ The music in the menu creates a calm and joyful atmosphere. On the contrary, the
 
 ## Screenshots
 
-![](Screenshots/7DuE2U.png)
+![](Screenshots/KAABT0.png)
 ![](Screenshots/dUG_hh.png)
 ![](Screenshots/h8I3kx.png)
-![](Screenshots/KAABT0.png)
+![](Screenshots/7DuE2U.png)
 ![](Screenshots/wjVlMY.png)
